@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+	color: white;
+}
+	main {
+		width: 60%;
+		margin: 0 auto;
+	}
+	article {
+		border: 20px double red;
+		padding: 20px;
+	}
+	nav {
+		float:left;
+		width: 7%;
+		background-color: black;
+	}
+	h1 {
+		font-family: 'Merriweather', serif;
+		font-size: 3em;
+	}
+
+	h1, h2, h3{
+		text-align: center;
+
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	h3 {
+		font-size: 1em;
+		line-height: 0,3;
+	}
+
+	p {
+		font-family: 'Roboto', sans-serif;
+	}
+	blockquote {
+		font-family: 'Merriweather', sans-serif;
+	}
+	img{
+		float: right;
+		width: 488px;
+		margin: 10px;
+	}
+	.signatur {
+
+	}
+	#kapitel1, #kapitel2 {
+
+	}
